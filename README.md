@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-main-SlFnxSmCES](https://www.frontendmentor.io/solutions/interactive-rating-component-main-SlFnxSmCES)
 - Live Site URL: [https://isabellatressino.github.io/interactive-rating-component-main/](https://isabellatressino.github.io/interactive-rating-component-main/)
 
 ## My process
